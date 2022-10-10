@@ -14,3 +14,6 @@ The sovereign individual zh-TW version (collected from internet)
 - Nationalism, Reaction, and the New Luddites
 - The Twilight of Democracy
 - Morality and Crime in the "Natural Economy" of the Information Age
+
+## Copyright
+This repo is for educational purposes. The copyright of these files belongs to the original writer and translator.
