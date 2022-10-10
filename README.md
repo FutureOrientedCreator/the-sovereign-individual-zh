@@ -1,5 +1,5 @@
 # the-sovereign-individual-zh
-The sovereign individual ZH version (collected from internet)
+The sovereign individual zh-TW version (collected from internet)
 
 ## Summary
 
